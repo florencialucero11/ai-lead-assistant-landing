@@ -19,3 +19,9 @@ Ideal for coaches, gyms, and service-based businesses looking to automate client
 
 ## Author
 Florencia Lucero – Web Developer & AI Automation Specialist
+
+## Future Improvements
+- Backend integration with OpenAI API
+- Secure handling of API keys
+- Persistent storage of leads
+- Analytics dashboard
